@@ -1,0 +1,43 @@
+body {
+  
+    height: 100%;
+    background-image: url("https://images.pexels.com/photos/255377/pexels-photo-255377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: auto;
+    margin : 0 auto;
+    font-size : 16pt;
+    font-family : 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    text-align : center;
+    
+}
+
+div {
+
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    font-size : 16pt;
+    font-family : 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    text-align : center;
+    background-color : rgba(168, 58, 196, 0.486);
+    background-size: contain; 
+    border-radius: 10px;
+   
+
+
+}
+
+button {
+
+    height: 35px;
+    width: 300px;
+    margin : 0 auto;
+    border-radius: 10px;
+    background-color : rgba(168, 58, 196, 0.486);
+    font-size : 16pt;
+    font-family : 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+    text-align : center;
+}
